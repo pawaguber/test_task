@@ -1,0 +1,16 @@
+{
+    "name": "pawag/new_task",
+    "autoload": {
+        "psr-4": {
+            "Pawag\\NewTask\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Pavlo Bakum"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "7"
+    }
+}
